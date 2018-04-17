@@ -1,7 +1,7 @@
 # Udacity 机器学习进阶P7:猫狗大战
 
  ## 简介
-这是Udacity 机器学习（进阶）毕业项目猫狗大战的全部实现过程。供后续同学参考。想要了解每个文件的内容，请先阅读report.pdf文件，该文件为毕业项目的详细报告。本文的实现参考了[培神的实现](https://github.com/ypwhs/dogs_vs_cats)。如果参考了本实现或者培神的方法，请记得引用。
+这是Udacity 机器学习（进阶）毕业项目猫狗大战的全部实现过程。供后续同学参考。想要了解每个文件的内容，请先阅读[report.pdf](https://github.com/juncas/udacity_p7_cat_vs_dog/blob/master/report.pdf)文件，该文件为毕业项目的详细报告。本文的实现参考了[培神的实现](https://github.com/ypwhs/dogs_vs_cats)。如果参考了本实现或者培神的方法，请记得引用。
 
 ## 使用到的库
 - os
