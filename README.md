@@ -19,7 +19,9 @@
 ## 训练所用机器
 - CPU：i7-8700k
 - 内存： 16G DDR4 2400
-- GPU: 0-GTX1070Ti 1-Tesla K40c
+- GPU: 
+	- dev0: GTX1070Ti
+	- dev1: Tesla K40c
 - 其他不重要
 
 ## 操作系统
